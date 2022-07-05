@@ -7,7 +7,7 @@
     "php": ">=7.4",
     "ext-json": "*",
     "rmccue/requests": "^2.0",
-    "datagutten/audio-metadata": "^3.0",
+    "datagutten/audio-metadata": "dev-master",
     "datagutten/tools": "^1.8",
     "ext-mbstring": "*"
   },
